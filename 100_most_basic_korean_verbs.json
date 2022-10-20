@@ -1,0 +1,406 @@
+[
+    {
+        "korean": "Word",
+        "meaning": "Meaning"
+    },
+    {
+        "korean": "가다",
+        "meaning": "To go"
+    },
+    {
+        "korean": "가르치다",
+        "meaning": "To teach"
+    },
+    {
+        "korean": "가지다",
+        "meaning": "To have"
+    },
+    {
+        "korean": "갖다",
+        "meaning": "To have"
+    },
+    {
+        "korean": "거짓말하다",
+        "meaning": "To lie"
+    },
+    {
+        "korean": "걱정하다",
+        "meaning": "To worry"
+    },
+    {
+        "korean": "걷다",
+        "meaning": "To walk"
+    },
+    {
+        "korean": "걸다",
+        "meaning": "To call, dial"
+    },
+    {
+        "korean": "결혼하다",
+        "meaning": "To marry"
+    },
+    {
+        "korean": "고백하다",
+        "meaning": "To confess"
+    },
+    {
+        "korean": "공부하다",
+        "meaning": "To study"
+    },
+    {
+        "korean": "굽다",
+        "meaning": "To roast, grill, bake"
+    },
+    {
+        "korean": "기다리다",
+        "meaning": "To wait"
+    },
+    {
+        "korean": "기억하다",
+        "meaning": "To remember"
+    },
+    {
+        "korean": "꿈꾸다",
+        "meaning": "To dream"
+    },
+    {
+        "korean": "끓이다",
+        "meaning": "To boil"
+    },
+    {
+        "korean": "끝나다",
+        "meaning": "To finish"
+    },
+    {
+        "korean": "나가다",
+        "meaning": "To exit"
+    },
+    {
+        "korean": "내다",
+        "meaning": "To pay"
+    },
+    {
+        "korean": "닫다",
+        "meaning": "To close"
+    },
+    {
+        "korean": "대답하다",
+        "meaning": "To answer"
+    },
+    {
+        "korean": "도와주다",
+        "meaning": "To help"
+    },
+    {
+        "korean": "도착하다",
+        "meaning": "To arrive"
+    },
+    {
+        "korean": "듣다",
+        "meaning": "&nbsp;To hear"
+    },
+    {
+        "korean": "들어오다",
+        "meaning": "To enter"
+    },
+    {
+        "korean": "마시다",
+        "meaning": "To drink"
+    },
+    {
+        "korean": "만나다",
+        "meaning": "To meet"
+    },
+    {
+        "korean": "만들다",
+        "meaning": "To make"
+    },
+    {
+        "korean": "말하다",
+        "meaning": "To talk, speak"
+    },
+    {
+        "korean": "먹다",
+        "meaning": "To eat"
+    },
+    {
+        "korean": "모르다",
+        "meaning": "To not know"
+    },
+    {
+        "korean": "묻다",
+        "meaning": "To ask"
+    },
+    {
+        "korean": "물어보다",
+        "meaning": "To ask"
+    },
+    {
+        "korean": "배우다",
+        "meaning": "To learn"
+    },
+    {
+        "korean": "벗다",
+        "meaning": "To undress, take off clothes"
+    },
+    {
+        "korean": "보내다",
+        "meaning": "To send"
+    },
+    {
+        "korean": "보다",
+        "meaning": "To see"
+    },
+    {
+        "korean": "볶다",
+        "meaning": "To fry"
+    },
+    {
+        "korean": "빌리다",
+        "meaning": "To borrow, lend"
+    },
+    {
+        "korean": "사다",
+        "meaning": "To buy"
+    },
+    {
+        "korean": "사랑에 빠지다",
+        "meaning": "To fall in love"
+    },
+    {
+        "korean": "사랑하다",
+        "meaning": "To love"
+    },
+    {
+        "korean": "사용하다",
+        "meaning": "To use"
+    },
+    {
+        "korean": "살다",
+        "meaning": "To live"
+    },
+    {
+        "korean": "생각하다",
+        "meaning": "To think"
+    },
+    {
+        "korean": "서두르다",
+        "meaning": "To hurry, rush"
+    },
+    {
+        "korean": "섞다",
+        "meaning": "To mix, blend"
+    },
+    {
+        "korean": "소개하다",
+        "meaning": "To introduce"
+    },
+    {
+        "korean": "쉬다",
+        "meaning": "To rest"
+    },
+    {
+        "korean": "시작하다",
+        "meaning": "To start"
+    },
+    {
+        "korean": "신다",
+        "meaning": "&nbsp;to wear (shoes, socks, footwear)"
+    },
+    {
+        "korean": "싫어하다",
+        "meaning": "To hate, dislike"
+    },
+    {
+        "korean": "싸우다",
+        "meaning": "To fight"
+    },
+    {
+        "korean": "썰다",
+        "meaning": "&nbsp;To chop, slice"
+    },
+    {
+        "korean": "쓰다",
+        "meaning": "To write"
+    },
+    {
+        "korean": "쓰다",
+        "meaning": "To wear (hat, eyewear)"
+    },
+    {
+        "korean": "씻다",
+        "meaning": "To wash"
+    },
+    {
+        "korean": "앉다",
+        "meaning": "To sit"
+    },
+    {
+        "korean": "알다",
+        "meaning": "To know"
+    },
+    {
+        "korean": "약속하다",
+        "meaning": "To promise"
+    },
+    {
+        "korean": "없다",
+        "meaning": "To not have"
+    },
+    {
+        "korean": "연습하다",
+        "meaning": "To practice"
+    },
+    {
+        "korean": "열다",
+        "meaning": "To open"
+    },
+    {
+        "korean": "오다",
+        "meaning": "To come"
+    },
+    {
+        "korean": "요리하다",
+        "meaning": "To cook"
+    },
+    {
+        "korean": "운동하다",
+        "meaning": "To exercise"
+    },
+    {
+        "korean": "운전하다",
+        "meaning": "To drive"
+    },
+    {
+        "korean": "울다",
+        "meaning": "To cry"
+    },
+    {
+        "korean": "웃다",
+        "meaning": "To laugh"
+    },
+    {
+        "korean": "이기다",
+        "meaning": "To win, defeat"
+    },
+    {
+        "korean": "이야기하다",
+        "meaning": "&nbsp;To talk, chat"
+    },
+    {
+        "korean": "일어나다",
+        "meaning": "To get up"
+    },
+    {
+        "korean": "일하다",
+        "meaning": "To work"
+    },
+    {
+        "korean": "읽다",
+        "meaning": "To read"
+    },
+    {
+        "korean": "입다",
+        "meaning": "To wear"
+    },
+    {
+        "korean": "있다",
+        "meaning": "To have"
+    },
+    {
+        "korean": "자다",
+        "meaning": "To sleep"
+    },
+    {
+        "korean": "재다",
+        "meaning": "To measure, weigh"
+    },
+    {
+        "korean": "전화하다",
+        "meaning": "To telephone"
+    },
+    {
+        "korean": "좋아하다",
+        "meaning": "To like"
+    },
+    {
+        "korean": "죄송하다",
+        "meaning": "To be sorry"
+    },
+    {
+        "korean": "주다",
+        "meaning": "&nbsp;To give"
+    },
+    {
+        "korean": "주문하다",
+        "meaning": "To order"
+    },
+    {
+        "korean": "죽다",
+        "meaning": "To die"
+    },
+    {
+        "korean": "준비하다",
+        "meaning": "To prepare"
+    },
+    {
+        "korean": "지다",
+        "meaning": "To lose, be defeated"
+    },
+    {
+        "korean": "찌다",
+        "meaning": "To steam"
+    },
+    {
+        "korean": "찍다",
+        "meaning": "To take (picture)"
+    },
+    {
+        "korean": "찾다",
+        "meaning": "To find,To look for"
+    },
+    {
+        "korean": "청소하다",
+        "meaning": "To clean"
+    },
+    {
+        "korean": "축하하다",
+        "meaning": "To congratulate"
+    },
+    {
+        "korean": "출발하다",
+        "meaning": "To depart"
+    },
+    {
+        "korean": "춤추다",
+        "meaning": "To dance"
+    },
+    {
+        "korean": "타다",
+        "meaning": "To ride"
+    },
+    {
+        "korean": "태어나다",
+        "meaning": "To be born"
+    },
+    {
+        "korean": "튀기다",
+        "meaning": "To deep fry"
+    },
+    {
+        "korean": "팔다",
+        "meaning": "To sell"
+    },
+    {
+        "korean": "필요하다",
+        "meaning": "To need"
+    },
+    {
+        "korean": "하다",
+        "meaning": "To do"
+    },
+    {
+        "korean": "휘젓다",
+        "meaning": "To stir"
+    }
+]

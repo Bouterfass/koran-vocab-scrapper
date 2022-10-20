@@ -1,0 +1,25 @@
+{
+  "name": "korean-learning-project",
+  "version": "1.0.0",
+  "description": "Scrapper de vocabulaire coreen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scrapper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bouterfass/koran-vocab-scrapper.git"
+  },
+  "author": "Youcef Bouterfass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bouterfass/koran-vocab-scrapper/issues"
+  },
+  "homepage": "https://github.com/Bouterfass/koran-vocab-scrapper#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "got": "^11.8.3",
+    "jsdom": "^16.4.0"
+  }
+}
